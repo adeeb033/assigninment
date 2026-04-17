@@ -1,0 +1,25 @@
+{
+  "overview": "AI-powered Assignment Intelligence System — a smart academic productivity tool that predicts optimal start dates, scores task priority using weighted formulas, and plans your daily study focus. All logic runs client-side with localStorage persistence.",
+  "features": [
+    "Smart priority scoring engine (0–100) with urgency, difficulty, and risk factors",
+    "Optimal start date prediction with procrastination buffer and weekend skips",
+    "Assignment dashboard with urgency badges, color-coded cards, filters, and sorting",
+    "Add assignment slide-over form with auto-computed start date and urgency",
+    "Daily Task Planner with top-priority focus list and motivational nudges",
+    "Simulated notification system with bell icon, unread count, and dropdown",
+    "Fixed navbar, collapsible sidebar, and dark mode toggle",
+    "localStorage persistence for assignments and behavior profile"
+  ],
+  "category": "productivity",
+  "tags": [
+    "assignments",
+    "productivity",
+    "ai",
+    "planner",
+    "academic",
+    "priority",
+    "scheduling",
+    "dark-mode"
+  ],
+  "last_updated": "2026-04-17T14:17:46.481Z"
+}
